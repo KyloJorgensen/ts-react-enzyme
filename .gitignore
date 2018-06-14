@@ -7,3 +7,4 @@ server/server.config.php
 sshkey.ppk
 sftp-config.json
 dist
+.vscode
